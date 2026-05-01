@@ -46,7 +46,7 @@ MyTaskList adalah aplikasi to-do list yang memungkinkan pengguna menambah, menan
 
 | Home (Empty) | 
 |:---:|
-| ![empty](c:\Users\ASUS\Downloads\ss7.jpeg) | 
+| ![empty](.assets/ss7.jpeg) | 
 
 ---
 
@@ -75,8 +75,8 @@ npx expo start
 
 ## 🔗 Links
 
-- **GitHub:** https://github.com/[username]/MyTaskList-App
-- **Expo Snack:** https://snack.expo.dev/@[username]/mytasklist *(opsional)*
+- **GitHub:** https://github.com/pras177/pertemuan7
+- **Expo Snack:** https://snack.expo.dev/@prasetya-amal-dinata/pertemuan7
 
 ---
 
