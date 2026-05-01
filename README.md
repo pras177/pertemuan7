@@ -43,7 +43,7 @@ MyTaskList adalah aplikasi to-do list yang memungkinkan pengguna menambah, menan
 ## 📸 Screenshot
 | Home (Empty) | 
 |:---:|
-| ![empty](.assets/ss7.jpg) | 
+| ![empty](./assets/ss7.jpg) | 
 
 ---
 
