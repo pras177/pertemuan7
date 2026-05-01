@@ -42,11 +42,9 @@ MyTaskList adalah aplikasi to-do list yang memungkinkan pengguna menambah, menan
 
 ## 📸 Screenshot
 
-> *(Ganti bagian ini dengan screenshot dari HP fisik kamu)*
-
 | Home (Empty) | 
 |:---:|
-| ![empty](.assets/ss7.jpeg) | 
+| ![empty](.assets/ss7.jpg) | 
 
 ---
 
